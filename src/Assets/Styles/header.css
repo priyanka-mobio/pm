@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    position: fixed;
+    right: 30%;
+   top: 0%;
+   left:13.4%; 
+    background-color:white;
+    height:13.8%;
+    width:86.7%;
+}
+
+.avatar{
+    margin-left: 24%;
+    height:90%;
+    width:90%;
+    /* margin-top: -60%; */
+}
+/* 
+.bell{
+    height: 70%;
+    width:50%;
+   
+} */

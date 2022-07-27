@@ -1,0 +1,85 @@
+
+.user_container {
+    height: 60vh;
+    width: 171.5vh;
+    margin-top: 20px;
+    padding-top: 5px;
+    gap: 16px;
+    margin-left: 14.8%;
+    background-color: white;
+    
+}
+
+.btn-btn-user {
+    /* margin-bottom: -29px; */
+    width: 86px;
+    height: 32px;
+    background: white;
+    border: 1px solid gray;
+    color: black;
+
+}
+
+.btn-btn-user:hover {
+    background-color: #0F2A6F;
+    color: white;
+    cursor: pointer;
+}
+
+.user-filter {
+    margin-left: 78%;
+    margin-top: -2.6%;
+}
+
+.user-sort {
+    margin-left: 86%;
+    margin-top: -2.6%;
+}
+
+.user-icon {
+    margin-left: 94%;
+    margin-top: -2%;
+
+}
+
+.btn-add-btn {
+    margin-left: 70%;
+    position: absolute;
+    top: 160px;
+    left: 17%;
+    width: 120px;
+    height: 40px;
+    background: #0F2A6F;
+    border: 1px solid #0F2A6F;
+    box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.043);
+    border-radius: 2px;
+    color: white;
+    /* margin-left: 157vh; */
+    font-size: 14px;
+
+}
+
+Table{
+    /* display: flex; */
+    /* position: fixed; */
+    /* top:30%; */
+    margin-top: 30px;
+   
+}
+
+.ant-switch-checked {
+    background-color:#0F2A6F;
+}
+
+.ant-table{
+    max-height: 30%;
+}
+
+.ant-table-pagination.ant-pagination{
+   
+    margin-top: 66px;
+    margin-right: 0px;
+    margin-bottom: 16px;
+    margin-left: 0px;
+
+}

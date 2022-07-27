@@ -1,0 +1,50 @@
+.profile_logo{
+     padding-top: 5%;
+      margin-left: 45%;
+  }
+  .ink-login{
+    width: 2.4%;
+    border: 1px solid #0F2A6F;
+    /* box-sizing: border-box; */
+    margin-left: 36.9%;
+    
+      
+  }
+  .login{
+    margin-top:3%;
+     margin-left:36.8%;
+     color:#0F2A6F;
+     font-family:Roboto;
+     font-style: regular;
+     font-weight: 400;
+     font-size: 14px;
+     line-height: 134%; 
+     
+     text-decoration: underline;
+   
+   }
+  
+    .ant-form {
+        margin-top:1%;
+    
+    width:24%;
+    
+    position: relative; 
+    margin-left: 40%;
+    
+   }
+   
+   .ant-input-affix-wrapper{
+    height: 90%;
+   }
+  
+   .login-form-forgot{
+        margin-left: 36%;
+   }
+   .ant-form-item-control-input-content {
+    height: 140%;
+   }
+
+   .login-form-forgot{
+    color: #0F2A6F;
+   }
